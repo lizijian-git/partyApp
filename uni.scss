@@ -1,0 +1,76 @@
+/* 页面左右间距 */
+$spacing-lg: 30upx;
+$spacing-base: 20upx;
+$spacing-sm: 10upx;
+
+$color-white: #fff;
+$color-black: #000;
+$color-text: #f9c70e;
+
+
+$page-row-spacing: 30upx;
+$page-color-base: #f8f8f8;
+$page-color-light: #f8f6fc;
+$base-color: #3CC393;
+
+/* 文字尺寸 */
+$font-sm: 24upx;
+$font-secondary: 26upx;
+$font-base: 28upx;
+$font-lg: 30upx;
+
+/* 全局字体颜色 */
+$background-button-color: #d0b987;;
+$background-global-color: #FD283E;
+
+$font-color-dark: #303133;
+$font-color-base: #666666;
+$font-color-night: #999999;
+$font-color-light: #909399;
+$font-color-active: #F7C50D;
+$font-default-color: #999999;
+$font-color-disabled: #C0C4CC;
+$font-color-spec: #4399fc;
+$font-color-red: #fa436a;
+
+/*文字颜色*/
+$font-color-dark:#303133;
+$font-color-base:#48C093;
+$font-color-light:#909399;
+$font-color-disabled:#C0C4CC;
+$font-color-spec:#d6003c;
+$font-color-gray:#999999;
+$font-color-red:#dd0037;
+$font-color-ccc:#cccccc;
+$font-color-999:#999999;
+$font-color-666:#666666;
+$font-color-333:#333333;
+$font-color-000:#000000;
+
+/* 边框颜色 */
+$border-color-dark: #DCDFE6;
+$border-color-base: #f1f1f1;
+$border-color-light: #EBEEF5;
+
+/* 图片加载中颜色 */
+$image-bg-color: #eee;
+
+/* 行为相关颜色 */
+$uni-color-primary:#fa436a;
+$uni-color-success: #4cd964;
+$uni-color-warning: #f0ad4e;
+$uni-color-error: #dd524d;
+
+// 背景颜色
+$color-white: #ffffff;
+$color-green: green;
+$bg-color-yellow: #f0ad4e;
+$image-bg-color:#eeeeee;
+$bgcolor_white:#ffffff;
+$all_bgcolor:#f4f4f4;
+$vui_bgcolor:#8c0027;
+
+/* 颜色变量 */
+$uni-btn-color: #007aff;
+/* uni.scss */
+@import 'uview-ui/theme.scss';
